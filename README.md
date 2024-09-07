@@ -1,0 +1,3 @@
+- eu me chamo Giovani
+- estudo no Alura
+- 
